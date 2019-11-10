@@ -6,6 +6,8 @@
 
 using namespace std;
 
+int global_variablr = 0;
+
 int main()
 {
     cout << "+Siemano" << endl;
