@@ -8,7 +8,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Siemano" << endl;
-    cout << "Co tam?" << endl;
+    cout << "+Siemano" << endl;
+    cout << "+Co tam?" << endl;
+    cout << "-Spoko" << endl;
+    cout << "-A tam?" << endl;
     return 0;
 }
